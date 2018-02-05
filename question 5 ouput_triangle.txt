@@ -1,0 +1,33 @@
+first point of X and Y cordinate
+X1=1.0
+Y1=2.0
+second point of X and Y cordinate
+X2=3.0
+Y2=4.0
+first point of X and Y cordinate
+X3=5.0
+Y3=6.0
+fake triangle
+
+first point of X and Y cordinate
+X1=0.0
+Y1=0.0
+second point of X and Y cordinate
+X2=0.0
+Y2=0.0
+first point of X and Y cordinate
+X3=0.0
+Y3=0.0
+fake triangle
+
+first point of X and Y cordinate
+X1=1.0
+Y1=0.0
+second point of X and Y cordinate
+X2=1.0
+Y2=-5.0
+first point of X and Y cordinate
+X3=0.0
+Y3=-2.0
+real triangle
+
